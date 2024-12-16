@@ -1,3 +1,4 @@
+package main;
 import utils.Compiler;
 import utils.JarPackager;
 import java.io.*;
