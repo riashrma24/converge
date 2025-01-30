@@ -1,7 +1,7 @@
 # converge
 build tool implemented in java
 
-##Basics
+## Basics
 
 A build tool is a software program that enables software developers to create executables from source code efficiently, by managing all the background work.
 
